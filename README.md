@@ -1,4 +1,13 @@
-# vue-curso22
+# Taller de desarrollo de plataformas web con Vue.JS y Django.
+## Repositorio creado durante el SISI 2022.
+
+SISI: Simposium de Sistemas Computacionales del instituto Tecnológico de Mérida.
+
+----------------------------------
+
+![sisi2022](sisi22.jpg)
+
+----------------------------------
 
 ## Project setup
 ```
